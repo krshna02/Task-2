@@ -12,8 +12,7 @@ Instant UI updates without page reload.
 
 ## 🚀 Live Demo
 
-**Live Link:** [https://your-live-link-here.com](https://your-live-link-here.com)
-*(Replace this with your deployed link — GitHub Pages, Netlify, Vercel, etc.)*
+**Live Link:** https://task-2-seven-umber.vercel.app/
 
 ---
 
